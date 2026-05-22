@@ -1,4 +1,6 @@
 # Project Proposal
+Kudaibergenova Aiym 
+C+
 
 ## 1. Project Title
 Daily Temperature Forecasting: RNN vs LSTM vs GRU
